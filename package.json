@@ -1,0 +1,11 @@
+{
+  "name": "node-red-free",
+  "version": "1.0.0",
+  "description": "Free Node-RED deployment",
+  "scripts": {
+    "start": "node-red"
+  },
+  "dependencies": {
+    "node-red": "3.1.0"
+  }
+}
